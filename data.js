@@ -1,5 +1,0 @@
-module.exports = {
-  token: "8481919730:AAFLG7Aj8wAibXzI0UzkaPffllIVaBCM1Cs",
-  id:"7891930878",
-  address:"https://www.google.com/"
-};
