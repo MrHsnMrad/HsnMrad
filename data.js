@@ -1,5 +1,5 @@
 module.exports = {
   token: "8481919730:AAFLG7Aj8wAibXzI0UzkaPffllIVaBCM1Cs",
   id:"7891930878",
-  address:"Enter your url"
+  address:"https://hsnmrad.onrender.com"
 };
